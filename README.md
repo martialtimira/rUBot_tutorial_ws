@@ -1,4 +1,4 @@
-# rUBot_Tutorial2
+# rUBot_Tutorial2:
 This workspace is organized in:
 | Document | Contents   |
 |------|------|
